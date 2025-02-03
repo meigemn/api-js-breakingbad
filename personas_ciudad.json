@@ -1,0 +1,70 @@
+{
+    "Marcos Sanchez": {
+        "id": "1",
+        "nombre": "Marcos Sanchez",
+        "especialidad":"Cardiólogo",
+        "horarios":"09:00-16:00"
+    },
+    "Juan Alberto": {
+        "id": "2",
+        "nombre": "Juan Alberto",
+        "especialidad":"Podología",
+        "horarios":"09:00-16:00"
+    },
+
+    "Pedro Manuel": {
+        "id": "3",
+        "nombre": "Pedro Manuel",
+        "especialidad":"Oftalmólogía",
+        "horarios":"09:00-16:00"
+    },
+    "Celia Martinez": {
+        "id": "4",
+        "nombre": "Celia Martinez",
+        "especialidad":"Cardiología",
+        "horarios":"09:00-16:00"
+    },
+    "Pedro Suarez": {
+        "id": "5",
+        "nombre": "Pedro Suarez",
+        "especialidad":"Cardiología",
+        "horarios":"14:00-22:00"
+    },
+    "Marta Hinajosa": {
+        "id": "6",
+        "nombre": "Marta Hinajosa",
+        "especialidad":"Oftalmólogo",
+        "horarios":"09:00-16:00"
+    },
+    "Elena Cabra": {
+        "id": "7",
+        "nombre": "Elena Cabra",
+        "especialidad":"Traumatología",
+        "horarios":"10:00-18:00"
+    },
+
+    "Luis Sanchez": {
+        "id": "8",
+        "nombre": "Luis Sanchez",
+        "especialidad":"Cardiología",
+        "horarios":"00:00-08:00"
+    },
+    "Carmen Ortiz": {
+        "id": "9",
+        "nombre": "Carmen Ortiz",
+        "especialidad":"Traumatología",
+        "horarios":"10:00-18:00"
+    },
+    "Pedro Aguado": {
+        "id": "9",
+        "nombre": "Pedro Aguado",
+        "especialidad":"Oftalmólogia",
+        "horarios":"08:00-17:00"
+    },
+    "Lausa Monez": {
+        "id": "10",
+        "nombre": "Lausa Monez",
+        "especialidad":"Podología",
+        "horarios":"08:00-17:00"
+    }
+}
